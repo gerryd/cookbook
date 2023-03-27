@@ -1,7 +1,7 @@
 baseURL: https://r.t.x-net.be/
 languageCode: en-us
 title: Recipes
-theme: book
+theme: geekdoc
 
 params:
   BookSection: /
