@@ -1,7 +1,8 @@
 baseURL: https://r.t.x-net.be/
 languageCode: en-us
-title: Recipes
+title: Cookbook
 theme: geekdoc
 
 params:
-  BookSection: /
+  geekdocRepo: "https://github.com/gerryd/cookbook"
+  geekdocEditPath: "edit/main"
