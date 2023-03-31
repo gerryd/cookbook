@@ -2,45 +2,42 @@
 title: Coconut flour cupcakes
 ---
 
-# Coconut flour cupcakes
-
 This recipe will yield 6 cupcakes and is gluten free.
 
-## Ingredients
+For the vegetable oil, you can use any flavourless oil. Examples are sunflower,
+canola or grapeseed oil.
 
+# Tools
 
-- 100 g sugar
-- 60 g butter
-- 60 g margarine
-- 1/2 teaspoon salt
+- cupcake pan
+- cupcake liners
+- 2 large bowls
 
+# Ingredients
 
-- 250 g flour
-- 1 teaspoon baking powder
-- 1 teaspoon baking soda
-- 1/2 teaspoon salt
-- 1 teaspoon cinnamon
-- 1/4 teaspoon nutmeg
-- 4 large, ripe bananas (**test: weight**)
-- 160 g sugar (light or dark brown is best)
-- 2 eggs (small)
-- 1 teaspoon vanilla extract
-- 40 ml milk
-- chocolate chips, chopped nuts (optional, 1 cup)
+- 25 g vegetable oil
+- 30 g melted butter
+- 65 g sugar
+- 1/4 tsp salt
+- 1 tsp vanilla extract
+- 3 large eggs
+- 15 g milk
+- 1/2 tsp baking powder
 
-## Directions
+# Directions
 
-- pre-heat the oven to 220 °C
-- prepare 12 to 14 cupcake liners or use a muffin pan
-- whisk together the flour, baking soda, baking powder, cinnamon, nutmeg and salt
-- in another large bowl, mash the bananas
-- melt the butter and margarine
-- using a mixer, beat in the butter and margarine, sugar, egg, vanilla and milk
-- poor in the flour mix
-- fold in with a spatula
-- add in the chocolate chips or nuts (optional)
-- spoon the mixture into the liners, fill all the way to the top
-- bake for 5 minutes at 220 °C
-- reduce the heat to 175 °C and bake for another 16 to 18 minutes (use a toothpick to test)
-- let them cool down
-- cover and store at room temperature
+- pre-heat the oven to 175 °C
+- prepare 6 cupcake liners in a muffin pan
+- crack the eggs in a bowl, whisk to combine
+- add the oil, sugar, salt, vanilla and milk
+- whisk until smooth
+- in a separate bowl, sift the coconut flour and baking powder together
+- add the flour mix to the wet mix
+- stir with a spatula to combine
+- pour the mixture into the liners (approximately 3/4 full)
+- bake for 18 to 20 minutes (test with a toothpick)
+- let them cool down in the pan for 5 to 10 minutes
+- put them on a rack to cool down further
+
+Optionally, you can add a topping such as buttercream frosting, or a chocolate
+glaze.
