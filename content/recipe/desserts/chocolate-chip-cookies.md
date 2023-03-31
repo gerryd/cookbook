@@ -2,8 +2,6 @@
 title: Chocolate chip cookies
 ---
 
-# Chocolate chip cookies
-
 This recipe makes approximately 16 cookies (~35g dough per cookie).
 
 The recipe calls for light brown sugar or cassonade; if you feel like it, you
@@ -12,12 +10,12 @@ sugar, though, but in a pinch that will do as well.
 
 For baking, I prefer to use baking paper on a rack.
 
-## Tools
+# Tools
 
 - baking sheet or rack
 - baking paper
 
-## Ingredients
+# Ingredients
 
 - 100 g butter
 - 150 g light brown sugar
@@ -28,7 +26,7 @@ For baking, I prefer to use baking paper on a rack.
 - 1 tsp vanilla extract or vanilla flavouring
 - 100g chocolate chips (+ extra)
 
-## Directions
+# Directions
 
 - mix the butter and sugar until smooth and creamy
 - add the egg and vanilla flavouriung, mix well

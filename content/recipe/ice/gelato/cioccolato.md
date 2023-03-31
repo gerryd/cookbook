@@ -2,18 +2,16 @@
 title: Gelato al cioccolato
 ---
 
-# Gelato al cioccolato
-
 Gelato al cioccolato or chocolate gelato is basically fior di latte with
 cocoa powder and chocolate.
 
-## Ingredients
+# Ingredients
 
 - one batch of the "fior de latte" gelato recipe
 - 30 g coocoa
 - 2 bars of dark chocolate
 
-## Directions
+# Directions
 
 - make a batch of "fior de latte"
 - using a mixer, mix in the cocoa powder

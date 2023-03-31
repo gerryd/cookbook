@@ -2,14 +2,12 @@
 title: Banana bavarois
 ---
 
-# Banana bavarois
-
 This recipe should be enough for a 24 cm diameter ring, 6 cm high.
 
 It includes a ganache layer between the bottom and the bavarois. I much prefer
 it with the ganache, but it works well without.
 
-## Tools
+# Tools
 
 - blender
 - baking paper
@@ -17,17 +15,17 @@ it with the ganache, but it works well without.
 - 24 cm cake ring
 - acetate foil (optional, can be substituted by baking paper)
 
-## Bottom
+# Bottom
 
 The bottom is a crumbled cookie bottom, held together by butter. It works best
 with dry cookies, such as speculoos.
 
-### Ingredients
+## Ingredients
 
 - 200 g cookies
 - 80 g butter
 
-### Directions
+## Directions
 
 - blend of crumble the cookies to a fine-ish powder
 - melt the butter
@@ -37,18 +35,18 @@ with dry cookies, such as speculoos.
 - press down with a spoon or another flat tool
 - bake for 10 min at 180°C
 
-## Ganache
+# Ganache
 
 The butter in this recipe is optional, it does give the ganache a nice shine,
 but as it is in between other layers I find it doesn't matter much.
 
-### Ingredients
+## Ingredients
 
 - 180 g dark chocolate
 - 180 ml cream
 - 20 g butter (optional)
 
-### Directions
+## Directions
 
 - chop the chocolate in small-ish chunks
 - warm the cream (do not boil)
@@ -59,9 +57,9 @@ but as it is in between other layers I find it doesn't matter much.
 - pour it over the baked bottom
 - put in the fridge for 1 hour (or until the ganache has hardened)
 
-## Bavarois
+# Bavarois
 
-### Ingredients
+## Ingredients
 
 - 4 ripe bananas
 - 5 gelatin leaves
@@ -71,7 +69,7 @@ but as it is in between other layers I find it doesn't matter much.
 - 4 eggs
 - 1 lemon (or lemon juice)
 
-### Directions
+## Directions
 
 - squeeze the lemon, keep the juice
 - soak the gelatin leaves for 5 to 7 minutes in cold water

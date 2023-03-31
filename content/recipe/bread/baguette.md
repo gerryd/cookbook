@@ -2,8 +2,6 @@
 title: Baguette
 ---
 
-# Baguette
-
 This recipe will make 2 baguettes of approcximately 30 cm.
 
 This recipe can be made with regular white flour, but works just as
@@ -17,7 +15,7 @@ minutes of the bake.
 If you don't have a convection oven, make sure to bake without too
 many layers between the heatig elements and the bread.
 
-## Ingredients
+# Ingredients
 
 - 160 g water
 - 3 g dry yeast
@@ -25,7 +23,7 @@ many layers between the heatig elements and the bread.
 - 250 g flour
 - 5 g salt
 
-## Directions
+# Directions
 
 - heat up 50% of the water to ~50 °C (warm to the touch)
 - gently stir in the yeast and the sugar with the warm water

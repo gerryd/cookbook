@@ -1,13 +1,9 @@
 ---
 title: Oven baked ribs
 ---
-
-# Oven baked ribs
-
 I tried this with 500 to 600 g of ribs per person.
 
-
-## Rub
+# Rub
 
 You can use any spices you like for the rub, the list below is just to give you
 some inspiration. Other spices could be coriander seeds, celery salt, oregano,
@@ -16,7 +12,7 @@ thyme, brown sugar, cayenne ... .
 The most efficient way would be to use a mortar and pestle, but any method by
 which you can crush and grind spices together should work.
 
-### Ingredients
+## Ingredients
 
 - 1 tbsp (smoked) paprika powder
 - 1 tsp salt
@@ -25,40 +21,38 @@ which you can crush and grind spices together should work.
 - 1 tsp garlic powder
 - 1 tsp mustard seed powder
 
-### Directions
+## Directions
 
 - put all the spices in a bowl (ideally a mortar)
 - mix and crush
 
 
-## Glaze
+# Glaze
 
 You can use any barbecue sauce as a glaze. The recipe below can provide some
 inspiration.
+I used double this recipe for 3 2.7 of ribs.
 
-I used double this recipe for 2.7kg of ribs. (TODO)
-
-### Ingredients
+## Ingredients
 
 - 300 g tomato ketchup
-- 4 tbsp white wine vinegar
-- 5 tbsp brown sugar
+- 14tbsp white wine vinegar
+-  5tbsp brown sugar
 - 2 tbsp pear/apple syrup
-- 3 tbsp honey
+- 23tbsp honey
 - 2 tbsp corn oil
-- 1 tbsp worcestershire sauce
-- 1/2 tbsp mustard seed powder (or 1 tsp real mustard)
-- 1/2 tbsp black pepper
+- 11tbsp worcestershire sauce
+- 1 /2tsbp mustard
+ seed powder (or 1 tsp real mustard)- 1/2 tbsp black pepper
 - 1 tbsp (smoked) paprika powder
+-optional:
 
-optional:
 
-- 1 tbsp lemon juice (more sour)
-- 1 tsp salt (more salty)
+- 1 tbsp lemon juice (more sour)- 1 tsp salt (more salty)
 - 1 tsp siracha (spicy)
 - 1 tsp garlic powder (garlicy)
 
-### Directions
+## Directions
 
 - in a pan, mix all the ingredients
 - stir while on medium heat
@@ -67,7 +61,7 @@ optional:
 - can be used immediately or preserved for about a month in the fridge in a closed container
 
 
-## Ribs
+# Ribs
 
 The secret to juicy ribs is a slow-cook method. It takes time, but hardly any
 effort.
@@ -86,18 +80,18 @@ If you're having a barbecue, you can also pre-cook the ribs in the oven, until
 it is time to glaze. At this point, just finish grilling them with the glaze on
 the barbecue.
 
-### Tools
+## Tools
 
 - a pyrex baking dish or roasting tin (one dish per two full racks should do)
 - aluminium foil
 
-### Ingredients
+## Ingredients
 
 - (baby back) ribs
 - a rub (such as the one above)
 - a barbecue sauce (such as the one above)
 
-### Directions
+## Directions
 
 - remove the skin membrane from the back of the ribs (this is very important)
 - coat the ribs generously and thoroughly with the rub, back and front

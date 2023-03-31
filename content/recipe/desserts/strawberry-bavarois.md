@@ -2,8 +2,6 @@
 title: Strawberry bavarois
 ---
 
-# Strawberry bavarois
-
 There are two options for the bottom of the bavarois. One is an almond financier
 and the other is a lemon shortcrust.
 
@@ -15,20 +13,21 @@ I do suggest you use the acetate foil either way, it allows you to remove the
 bavarois from the ring (or spring form) without damaging it. The foil can be
 removed right before serving.
 
-## Tools
+
+# Tools
 
 - 24-26 cm spring form
 - 22 cm cake ring
 - acetate foil
 
 
-## Bottom
+# Bottom
 
 Pick one of the options below.
 
-### Almond financier or visitandine
+## Almond financier or visitandine
 
-#### Ingredients
+### Ingredients
 
 - 110 g butter
 - 80 g almond flour (amandelmeel)
@@ -45,7 +44,7 @@ and is an excellent ingredient in cakes.
 Experience has shown that you can be a tad liberal with the amount of almond
 extract, but that probably also depends on the brand used.
 
-#### Directions
+### Directions
 
 - melt the butter in a small pan, medium heat until lightly brown (noisette)
 - pour the butter in a small recipient, leaving the sediments in the pan
@@ -60,9 +59,9 @@ extract, but that probably also depends on the brand used.
 - bake for 23 to 28 minutes
 - let cool down
 
-### Lemon shortcrust
+## Lemon shortcrust
 
-#### Ingredients
+### Ingredients
 
 - 100 g butter
 - 80 g salted butter
@@ -74,7 +73,7 @@ extract, but that probably also depends on the brand used.
 - vanilla flavouring
 - 1/4 lemon grass (optional)
 
-#### Directions
+### Directions
 
 - make sure the butter (salted and unsalted) is soft
 - put the butter in a stand mixer and mix gently
@@ -89,9 +88,10 @@ extract, but that probably also depends on the brand used.
 Do note that you can be quite liberal with the amount of lemon zest. This recipe
 easily takes all of the zest of one lemon.
 
-## Bavarois
 
-### Ingredients
+# Bavarois
+
+## Ingredients
 
 - 300 g strawberries
 - 1/4 or 1/2 lemon (juice)
@@ -99,7 +99,7 @@ easily takes all of the zest of one lemon.
 - 75 g sugar
 - 4 gelatin leaves (6.7 g total)
 
-### Directions
+## Directions
 
 Hint: blend all of the strawberries at once and keep ~175-200 ml in the fridge
 fo the mirror finish later.
@@ -120,7 +120,8 @@ bottles.
 - gently mix (spatula) half of the whipped cream into the puree
 - now gently mix in the other half (make sure to preserve the airyness!)
 
-## Assembly
+
+# Assembly
 
 - if you used the financier bottom, use the cake ring to press out a 22 cm ring
 - cut (or re-use) some baking paper to use as an underlay
@@ -129,9 +130,9 @@ bottles.
 - scoop in the bavarois
 - put in the fridge for 2 hours (more if you feel it has not solidified enough)
 
-## Mirror finish
+# Mirror finish
 
-### Ingredients
+## Ingredients
 
 - 175 g strawberries
 - 1/4 lemon (juice)
@@ -139,7 +140,7 @@ bottles.
 - 2 gelatin leaves (3.3 g total)
 - few drops of red food colouring (optional)
 
-### Directions
+## Directions
 
 If you already blended all of the strawberries when making the bavarois, skip
 the first two steps.

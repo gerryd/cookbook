@@ -2,8 +2,6 @@
 title: Chocolate mousse
 ---
 
-# Chocolate mousse
-
 There are many correct ways to make chocolate mousse. This is just one that I
 happen to like.
 
@@ -17,13 +15,13 @@ My mom swears by using only whites and chocolate, no cream or yolks.
 Whichever recipe you follow, usually you will get one portion of mousse per egg
 white used, so just multiply accordingly.
 
-## Ingredients
+# Ingredients
 
 - 1 egg white
 - 25 g dark (70+%) chocolate (usually, one bar is 25 g)
 - 20 ml cream
 
-## Directions
+# Directions
 
 I recommend using a soft spatula for mixing, instead of the traditional whisk.
 

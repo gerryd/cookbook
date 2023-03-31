@@ -2,17 +2,15 @@
 title: Pancakes
 ---
 
-# Pancakes
-
 The amounts listed should be enough for 3 to 4 people.
 
-## Tools
+# Tools
 
 - blender
 - silicone brush (or a potato)
 - pancake pan
 
-## Ingredients
+# Ingredients
 
 - 500 ml full-fat milk
 - 200 g flour
@@ -22,7 +20,7 @@ The amounts listed should be enough for 3 to 4 people.
 - vanilla (1-2 teaspoon of extract, or 2 pods)
 - a pinch of salt
 
-## Directions
+# Directions
 
 - melt the butter
 - scrape the vanilla pods

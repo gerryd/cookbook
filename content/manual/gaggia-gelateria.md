@@ -2,12 +2,10 @@
 title: Gaggia Gelateria
 ---
 
-# Gaggia Gelateria
-
 The Gaggia Gelateria is an ice cream maker. It can churn approximately 600 ml of
 ice cream at a time.
 
-## Parts
+# Parts
 
 The machine itself has a few noteworthy details.
 
@@ -26,7 +24,7 @@ The machine comes with a few parts.
 - Removable bowl
 - Locking nut for the mixing blades
 
-## Operation
+# Operation
 
 If you have moved the ice cream maker, allow the refrigerant to settle for 12
 hours.
@@ -50,7 +48,7 @@ maximum consistency and thus it stopped automatically.
 Note that you should not turn off the freezing function during operation. Should
 a power failure occur, wait at least 5 minutes before turning it on again.
 
-### Removable bowl
+## Removable bowl
 
 Using the removable bowl takes a few extra steps, to avoid the removable bowl
 sticking to the fixed bowl.

@@ -2,15 +2,13 @@
 title: Savoiardi
 ---
 
-# Savoiardi
-
 Savoiardi are probably better known as "laydfingers", "lange vingers" or
 "boudoirs".
 
 These are perfect for dipping in coffee, though you probably know them best from
 tiramisu.
 
-## Ingredients
+# Ingredients
 
 - 3 eggs
 - 90 g extra fine granulated sugar
@@ -19,7 +17,7 @@ tiramisu.
 - pinch of salt
 - some more extra fine granulated sugar (for dusting the top)
 
-## Directions
+# Directions
 
 - pre-heat the oven to 180 °C
 - separate the eggs
@@ -31,7 +29,7 @@ tiramisu.
 - pour the cornstarch and flour through a sieve over the mixture
 - use a spatula and mix gently
 
-### Cookies
+## Cookies
 
 - use a piping bag with a 1 to 1.5 cm smooth spout
 - make "fingers" of approximately 8 cm on a baking tray lined with baking paper
@@ -41,7 +39,7 @@ tiramisu.
 - let cool down
 - if, after cooling, they are still too soft, put them back in for 4 minutes
 
-### Cake layers
+## Cake layers
 
 These are perfect for tiramisu cake. They will bake into a much softer
 consistency than the cookies, but the taste will be very similar.

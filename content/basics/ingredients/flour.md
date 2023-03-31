@@ -32,15 +32,15 @@ self-rising flour, here's some examples.
 
 - 125 g flour
 - 3.75 g baking powder
-
+<!-- -->
 - 500 g flour
 - 15 g baking powder
-
+<!-- -->
 - 750 g flour
 - 22.5 g baking powder
-
+<!-- -->
 - 1 kg flour
 - 30 g baking powder
-
+<!-- -->
 - 500 g flour
 - 15 g baking powder

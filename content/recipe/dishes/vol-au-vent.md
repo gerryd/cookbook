@@ -2,25 +2,23 @@
 title: Vol-au-vent
 ---
 
-# Vol-au-vent
-
 This recipe takes a while to make. However, you can cook the chicken one day in
 advance, and leave it in the fridge overnight. The biscuits can be made a few
 days before, just make sure to keep them dry and airtight.
 
 This recipe feeds 4.
 
-## Videe biscuits
+# Videe biscuits
 
 The videe biscuits are small containers built up from puff pastry rings.
 
-### Ingredients
+## Ingredients
 
 - 2 store-bought sheets of puff pastry
 - 1 egg yolk
 - a splash of milk
 
-### Directions
+## Directions
 
 - using a ~6cm ring, cut out 16 circles
 - in 4 of these, which will make up the bottoms, poke some holes with a fork
@@ -31,9 +29,9 @@ The videe biscuits are small containers built up from puff pastry rings.
 - select 4 tiny rings and coat them as well (these will be the lids)
 
 
-## Chicken and meatballs
+# Chicken and meatballs
 
-### Ingredients
+## Ingredients
 
 - 1 chicken
 - 400g large meatballs (pork/veal or pork/beef)
@@ -49,7 +47,7 @@ The videe biscuits are small containers built up from puff pastry rings.
 - 2 cloves of garlic
 - water (1.5 to 2 litre)
 
-### Directions
+## Directions
 
 - cut the celery, leek and carrots in rough pieces
 - add them to a pot of water, make sure everything is covered
@@ -64,9 +62,9 @@ The videe biscuits are small containers built up from puff pastry rings.
 Tip: you can preserve the meatballs and chicken in the stock for 2 to 3 days
 
 
-## Finishing (sauce and mushrooms)
+# Finishing (sauce and mushrooms)
 
-### Ingredients
+## Ingredients
 
 - 250g mushrooms
 - 60g butter
@@ -77,7 +75,7 @@ Tip: you can preserve the meatballs and chicken in the stock for 2 to 3 days
 - 1/2 lemon
 - nutmeg
 
-### Directions
+## Directions
 
 Mushrooms
 

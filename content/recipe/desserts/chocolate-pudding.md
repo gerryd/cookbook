@@ -2,11 +2,9 @@
 title: Chocolate pudding
 ---
 
-# Chocolate pudding
-
 This recipe will yield 10 small bowls.
 
-## Ingredients
+# Ingredients
 
 - 750 g low fat milk
 - 50 g white sugar
@@ -15,7 +13,7 @@ This recipe will yield 10 small bowls.
 - 1 teaspoon vanilla extract (or 0.5 vanilla pod)
 - 100 g bitter chocolate
 
-## Directions
+# Directions
 
 - in a bowl, add the corn starch and cocoa powder
 - whisk gently

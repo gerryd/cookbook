@@ -2,18 +2,15 @@
 title: Apple tart
 ---
 
-# Apple tart
-
 This recipe will yield a ~27 cm / 10 inch tart.
 
+# Bottom (puff pastry - bladerdeeg)
 
-## Bottom (puff pastry - bladerdeeg)
-
-### Ingredients
+## Ingredients
 
 - ~250 g puff pastry (store-bought, any kind is fine)
 
-### Directions
+## Directions
 
 - take the dugh out of the fridge and bring to room temperature
 - take a 27 cm cake pan, grease with butter and dust lightly with flour until covered (remove excess)
@@ -22,9 +19,9 @@ This recipe will yield a ~27 cm / 10 inch tart.
 - stap the dough a few times with a fork
 
 
-## Filling (custard - banketbakkersroom)
+# Filling (custard - banketbakkersroom)
 
-### Ingredients
+## Ingredients
 
 - 100 ml + 400 ml milk
 - 3 egg yolks
@@ -39,7 +36,7 @@ If you skipped the vanilla pod, make sure to add other vanilla flavours.
 Also note that if you will use plain gelatin for the finish, you should start
 making the finish while the tart is in the oven.
 
-### Directions
+## Directions
 
 - gently whisk 100 ml of milk with the egg yolks
 - add custard powder and granulated sugar
@@ -57,14 +54,14 @@ making the finish while the tart is in the oven.
 - let the tart cool down for a bit on a rack
 
 
-## Finish
+# Finish
 
-### Ingredients
+## Ingredients
 
 - 1 bag of Dr. Oetker Taartina
 - 200 ml apple juice
 
-### Directions
+## Directions
 
 - mix the Taartina with a few spoons of the apple juice, stir well until dissolved
 - heat the applje juice almost to a boil

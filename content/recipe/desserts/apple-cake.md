@@ -2,16 +2,14 @@
 title: Apple cake
 ---
 
-# Apple cake
-
 This apple cake is meant to be baked in a round shape and served like a tart or
 pie. This recipe will yield a ~25 cm / 10 inch cake.
 
-## Tools
+# Tools
 
 - 25 cm or 10 inch springform cake pan
 
-## Ingredients
+# Ingredients
 
 - 200 g butter, at room temperature
 - 200 g white sugar
@@ -27,7 +25,7 @@ pie. This recipe will yield a ~25 cm / 10 inch cake.
 - sugar to sprinkle on top (optional)
 - apricot jam (optional)
 
-## Directions
+# Directions
 
 - pre-heat the oven to 170 °C
 - cut baking paper to the right shape and place on the bottom of the cake pan

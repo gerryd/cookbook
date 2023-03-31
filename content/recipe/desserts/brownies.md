@@ -2,11 +2,9 @@
 title: Brownies
 ---
 
-# Brownies
-
 This recipe makes 9 servings.
 
-## Tools
+# Tools
 
 - 20 cm (square) baking dish
 - parchment paper
@@ -14,7 +12,7 @@ This recipe makes 9 servings.
 - mixer
 - sieve
 
-## Ingredients
+# Ingredients
 
 - 225 g dark, semi-sweet chocolate (8 oz)
 - 170 g butter (1.5 sticks)
@@ -25,7 +23,7 @@ This recipe makes 9 servings.
 - 30 g cocoa powder
 - 6 g salt
 
-## Directions
+# Directions
 
 - pre-heat the oven to 180°C (350°F)
 - line the baking dish with parchment paper

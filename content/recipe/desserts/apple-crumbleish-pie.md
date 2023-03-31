@@ -2,8 +2,6 @@
 title: "Apple crumble-ish pie"
 ---
 
-# Apple crumble-ish pie
-
 This makes a 24cm pie. This may seem modest in size, but it is more than enough
 to make 10 portions.
 
@@ -13,12 +11,12 @@ a full lid and throw it on top of the pie.
 This recipe calls for cinnamon. However, if your intended audience does not like
 cinnamon, you can try to use some crushed cloves and grated nutmeg.
 
-## Tools
+# Tools
 
 - 24cm springform pan
 - baking paper
 
-## Ingredients
+# Ingredients
 
 - 200 g butter
 - 200 g light brown sugar
@@ -31,21 +29,21 @@ cinnamon, you can try to use some crushed cloves and grated nutmeg.
 - 6 g cinnamon (or 3 teaspoons)
 - 15 g breadcrumbs (paneermeel)
 
-## Directions
+# Directions
 
-### Dough
+## Dough
 
 - whisk the egg white and yolk, separate half of it for later
 - mix butter, brown sugar, flour, half the egg, vanilla sugar and salt
 - continue until the dough is solid and separate in 3 equal parts
 - let it rest for 20 minutes
 
-### Filling
+## Filling
 
 - peel the apples and cut them in slices
 - mix the granulated sugar and cinnamon
 
-### Assembly
+## Assembly
 
 - cut some baking paper to the size of your spring form and put it on the bottom
 - grease the springform well and dust with flour

@@ -2,9 +2,7 @@
 title: Straciatella ice cream
 ---
 
-# Straciatella ice cream
-
-## Ingredients
+# Ingredients
 
 - 200 ml milk
 - 200 ml cream
@@ -14,7 +12,7 @@ title: Straciatella ice cream
 - 100 g dark chocolate
 - a few grains of salt
 
-## Directions
+# Directions
 
 - pour the milk and cream in a pan
 - scrape the seeds out of the vanilla pod and add them as well (or add the flavouring)

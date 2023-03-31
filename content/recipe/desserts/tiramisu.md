@@ -2,17 +2,17 @@
 title: Tiramisu
 ---
 
-# Tiramisu
-
 I prefer to make tiramisu in a cake-like shape. Howver, making individual
 portions based on this recipe should be trivial.
 
-## Tools
+
+# Tools
 
 - 22 cm cake ring
 - acetate foil
 
-## Bottom and layers
+
+# Bottom and layers
 
 For the bottom, bake two round layers of savoiardi. See the savoiardi recipe for
 instructions, and follow the instructions for cake layers.
@@ -20,9 +20,10 @@ instructions, and follow the instructions for cake layers.
 If you are in a hurry, you can use store bought ladyfingers. The result will be
 quite different, though.
 
-## Cream
 
-### Ingredients
+# Cream
+
+## Ingredients
 
 - 4 egg yolks
 - 110 g sugar
@@ -33,7 +34,7 @@ quite different, though.
 - 200 ml espresso
 - cocoa powder
 
-### Directions
+## Directions
 
 - mix the yolks and half of the sugar until creamy (~5 minutes, "en ruban")
 - add in the mascarpone and mix until smooth

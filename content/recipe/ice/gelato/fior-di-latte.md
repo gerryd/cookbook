@@ -2,8 +2,6 @@
 title: Fior di latte
 ---
 
-# Fior di latte
-
 Fior di latte, or "flower of milk", is the basic recipe for any Italian gelato.
 Its flavour comes entirely from the milk and cream used.
 

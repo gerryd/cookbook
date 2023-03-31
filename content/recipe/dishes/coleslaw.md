@@ -2,15 +2,13 @@
 title: Coleslaw
 ---
 
-# Coleslaw
-
 This recipe is not entirely "traditional", if there even is such a thing, but it
 is fairly tasty. There are about a million variants on coleslaw, so do as you
 please.
 
 I made approximately 1 kg of coleslaw for 5 people. I made it the night before.
 
-### Ingredients
+# Ingredients
 
 - 700 g white cabbage
 - 175 g carrots
@@ -25,7 +23,7 @@ I made approximately 1 kg of coleslaw for 5 people. I made it the night before.
 - a pinch of cumin
 - pepper, salt
 
-### Directions
+# Directions
 
 - soak the raisins in 40-50 °C water for 10 minutes
 - cut the cabbage, carrots onion and apple in thin strips (julienne)

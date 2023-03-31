@@ -2,8 +2,6 @@
 title: Vacherin glacé
 ---
 
-# Vacherin glacé
-
 A "vacherin glacé" is a dessert with meringue, a sorbet of red fruits and milk
 (or vanilla) ice cream.
 
@@ -11,20 +9,20 @@ You will need to prepare a batch of "fior di latte gelato" as well as a
 raspberry sorbet. I would advise to make these fresh as you assemble the
 vacherin, as they will need to be a bit soft so they will spread easily.
 
-## Meringue
+# Meringue
 
 The meringue will take a few hours to prepare and cool down completely. I would
 advice to do this a day in advance. You can preserve the meringue for 3-4 days
 in a dry environment.
 
-### Ingredients
+## Ingredients
 
 - 4 large or 5 small egg whites
 - 200 g ultra fine sugar
 - 1 teaspoon of white wine vinegar
 - 1/2 tablespoon of corn starch
 
-### Directions
+## Directions
 
 - take the eggs out of the fridge and let them come to room temperature for 15 minutes
 - pre-heat the oven to 130 °C
@@ -36,9 +34,9 @@ in a dry environment.
 - bake for 1.5 hours (or until the exterior is dry and has a light crème colour
 - leave the oven door ajar and let the meringue cool down completely in the oven
 
-## Finishing
+# Finishing
 
-### Ingredients
+## Ingredients
 
 - 500 ml fior di latte gelato
 - 500 ml raspberry sorbet
@@ -46,7 +44,7 @@ in a dry environment.
 - 250 ml of cream
 - 20 g ultra fine sugar
 
-## Directions
+# Directions
 
 - put one of the meringue disks on a serving plate
 - make the fior di latte

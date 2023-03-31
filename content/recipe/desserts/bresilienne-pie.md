@@ -2,9 +2,7 @@
 title: Bresilienne pie
 ---
 
-# Bresilienne pie
-
-## Tools
+# Tools
 
 - pie pan (~26 cm diameter, ~3 cm high)
 - standmixer with dough hook
@@ -18,9 +16,10 @@ cm pie pan. I also found the dough to rise too much, so after 10 minutes in the
 oven, popped the bottom and weighed it down. I have reduced the amount of dry
 yeast from 9 to 7 grams.
 
-## Bottom
 
-### Ingredients
+# Bottom
+
+## Ingredients
 
 - 420 g flour
 - 210 g butter
@@ -33,7 +32,7 @@ yeast from 9 to 7 grams.
 The dough will be quite stiff; if you have one available, a standmixer with a
 dough hook would help.
 
-### Directions
+## Directions
 
 - bring the butter to room temperature
 - mix the flour, butter and sugar
@@ -45,9 +44,10 @@ dough hook would help.
 - slightly grease a bowl, put in the dough and cover with a towel or foil
 - let the dough rise and rest for 45min in a warm-ish spot
 
-## Pudding
 
-### Ingredients
+# Pudding
+
+## Ingredients
 
 - 100 ml milk
 - 20 g granulated sugar
@@ -55,7 +55,7 @@ dough hook would help.
 - 1 egg yolk
 - vanilla flavouring
 
-### Directions
+## Directions
 
 - mix the yolk, sugar and corn starch
 - add the vanilla flavouring
@@ -66,9 +66,10 @@ dough hook would help.
 - once thickened, pour the pudding on a plate and cover in foil
 - refrigerate until cold
 
-## Flan
 
-### Ingredients
+# Flan
+
+## Ingredients
 
 - 475 ml milk
 - 65 g granulated sugar
@@ -76,7 +77,7 @@ dough hook would help.
 - 4 eggs
 - 8 g vannilated sugar
 
-### Directions
+## Directions
 
 - mix the milk, sugar, flour, eggs and vannilated sugar (using a mixer)
 - take the pudding from earlier
@@ -84,7 +85,7 @@ dough hook would help.
 - let it rest for 15min
 
 
-## Baking
+# Baking
 
 - heat the oven to 200 °C
 - grease the pie pan and dust with flour
@@ -99,15 +100,16 @@ dough hook would help.
 - bake for 35 minutes
 - let it cool down
 
-## Finishing
 
-### Ingredients
+# Finishing
+
+## Ingredients
 
 - 300 ml cream
 - 1 tablsepoon powdered sugar
 - 100 g bresilienne/nougatine/hazelnuts/walnuts
 
-### Directions
+## Directions
 
 - whip the cream with the powdered sugar
 - spread the whipped cream evenly over the top of the pie

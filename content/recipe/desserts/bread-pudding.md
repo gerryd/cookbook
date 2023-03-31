@@ -2,12 +2,10 @@
 title: Bread pudding
 ---
 
-# Bread pudding
-
 Bread pudding, or "bodding", is a wet cake made from bread. This recipe includes
 rum, which I highly recommend adding.
 
-## Ingredients
+# Ingredients
 
 - 100 g dried raisins
 - 10 cl rum (be liberal)
@@ -20,7 +18,7 @@ rum, which I highly recommend adding.
 - 3 slices of "peperkoek", "honingkoek", "ontbijtkoek"
 - pinch of salt
 
-## Directions
+# Directions
 
 - pre-heat the oven to 175°C
 - soak the raisins in the rum (ideally overnight, cover all raisins with rum)

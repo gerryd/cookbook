@@ -2,8 +2,6 @@
 title: Pizza dough
 ---
 
-# Pizza dough
-
 There are numerous ways to make great pizza. This is just a basic
 recipe which doesn't take too much time and effort. All variables
 can be adjusted: rising time, water/flour ratio, type of yeast and
@@ -13,7 +11,7 @@ The most important is that you find an oven that can get to very high
 temperatures. The hotter, the better. Avoid the grill, don't overload
 the pizza with toppings and don't make the pizza too wet.
 
-## Ingredients
+# Ingredients
 
 - 260 ml warm water (38-43°C) (1 cup)
 - 6 g instant dry yeast powder (2 and 1/4 teaspoon)
@@ -22,7 +20,7 @@ the pizza with toppings and don't make the pizza too wet.
 - 10 g salt (3/4 teaspoon)
 - 450 g all-purpose flour (3 and 1/2 cups)
 
-## Directions
+# Directions
 
 - gently mix the yeast and sugar in the warm water in a small bowl
 - let it rest for 5 minutes
@@ -41,7 +39,7 @@ the pizza with toppings and don't make the pizza too wet.
 
 Optional: add herbs and spices (oregano, basil, garlic, pepper ...) to the dough.
 
-## Tips
+# Tips
 
 - to spread the dough, flour the countertop and stretch from the center out
 - the oven should be as hot as possible, cover vents as necessary but monitor!

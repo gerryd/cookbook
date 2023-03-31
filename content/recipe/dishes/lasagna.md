@@ -2,8 +2,6 @@
 title: Lasagna
 ---
 
-# Lasagna
-
 This makes a very classic "lasagna bolognese". Feel free to
 substitute ingredients in the tomato sauce as much as you want.
 
@@ -13,11 +11,11 @@ total).
 The lasagnas can be frozen. When baking from frozen, bake at 180 °C
 for 1 hour.
 
-## Cheese sauce
+# Cheese sauce
 
 The cheese sauce is basically a béchamel sauce with cheese.
 
-### Ingredients
+## Ingredients
 
 - 62.5 g butter
 - 75 g flour
@@ -25,7 +23,7 @@ The cheese sauce is basically a béchamel sauce with cheese.
 - 125 g shredded cheese (emmental, gruyère)
 - pepper, salt, nutmeg
 
-### Directions
+## Directions
 
 - in a saucepan, melt the butter
 - whisk in the flour to make a roux
@@ -35,12 +33,13 @@ The cheese sauce is basically a béchamel sauce with cheese.
 - add pepper, salt and nutmeg to taste
 - mix in the shredded cheese
 
-## Bolognese
 
-### Ingredients
+# Bolognese
+
+## Ingredients
 
 - 900 g of any pasta sauce
-- 150 g ground beef (or veal) 
+- 150 g ground beef (or veal)
 - 150 g ground pork
 - 200 g mushrooms
 - 1 onion
@@ -48,7 +47,7 @@ The cheese sauce is basically a béchamel sauce with cheese.
 - basil, oregano, pepper, salt
 - butter
 
-### Directions
+## Directions
 
 - finely chop the onion and bell peppers
 - slice the mushrooms
@@ -65,9 +64,10 @@ The cheese sauce is basically a béchamel sauce with cheese.
 - simmer for as long as you like
 - for the best result, cool down and re-heat the next day
 
-## Assembling
 
-### Directions
+# Assembling
+
+## Directions
 
 - start with a layer of liquid-ish bolognese
 - sheet of pasta

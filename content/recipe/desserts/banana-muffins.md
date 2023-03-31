@@ -2,11 +2,9 @@
 title: Banana muffins
 ---
 
-# Banana muffins
-
 This recipe will yield 10 to 12 muffins.
 
-## Ingredients
+# Ingredients
 
 - 250 g flour
 - 1 teaspoon baking powder
@@ -23,7 +21,7 @@ This recipe will yield 10 to 12 muffins.
 - 40 ml milk
 - chocolate chips, chopped nuts (optional, 1 cup)
 
-## Directions
+# Directions
 
 - pre-heat the oven to 220 °C
 - prepare 12 to 14 cupcake liners or use a muffin pan
@@ -40,6 +38,6 @@ This recipe will yield 10 to 12 muffins.
 - let them cool down
 - cover and store at room temperature
 
-## Comments
+# Comments
 
 The taste is good, but the cake is way too dense.

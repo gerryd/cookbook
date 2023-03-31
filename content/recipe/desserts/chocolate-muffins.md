@@ -2,11 +2,9 @@
 title: Chocolate muffins
 ---
 
-# Chocolate muffins
-
 This recipe will yield 12 to 14 muffins.
 
-## Ingredients
+# Ingredients
 
 - 250 g flour
 - 200 g white sugar
@@ -21,7 +19,7 @@ This recipe will yield 12 to 14 muffins.
 - 120 ml whole milk
 - 1 teaspoon vanilla extract
 
-## Directions
+# Directions
 
 - pre-heat the oven to 220 °C
 - prepare 12 to 14 cupcake liners or use a muffin pan

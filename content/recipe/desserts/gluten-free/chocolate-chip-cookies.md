@@ -2,16 +2,14 @@
 title: Chocolate chip cookies
 ---
 
-# Gluten free chocolate chip cookies
-
 This recipe makes approximately 9 cookies (~40g dough per cookie).
 
-## Tools
+# Tools
 
 - baking sheet or rack
 - baking paper
 
-## Ingredients
+# Ingredients
 
 - 75 g butter
 - 82.5 g (light) brown sugar
@@ -23,7 +21,7 @@ This recipe makes approximately 9 cookies (~40g dough per cookie).
 - 1/4 teaspoon salt
 - 62.5 g chocolate chips (+ extra)
 
-## Directions
+# Directions
 
 - mix the butter and both sugars until smooth and creamy
 - add the egg and vanilla flavouring, mix well

@@ -2,8 +2,6 @@
 title: Hand made ice cream
 ---
 
-# Hand made ice cream
-
 This is still under development.
 
 While I do recommend to use an ice cream maker, it is possible to make ice cream

@@ -2,11 +2,9 @@
 title: Gelato al caffè
 ---
 
-# Gelato al caffè
-
 Gelato al caffè or coffee gelato is basically fior di latte with coffee.
 
-## Ingredients
+# Ingredients
 
 - one batch of the "fior de latte" gelato recipe
 - 225 ml coffee
@@ -14,7 +12,7 @@ Gelato al caffè or coffee gelato is basically fior di latte with coffee.
 - 75 g chocolate-covered coffee beans (optional)
 - 75 g chocolate chips (optional)
 
-## Directions
+# Directions
 
 While it might sound snob-ish, making very good coffee is extremely important.
 

@@ -2,15 +2,13 @@
 title: Raspberry sorbet
 ---
 
-# Raspberry sorbet
-
-## Ingredients
+# Ingredients
 
 - 250 g raspberries
 - 150 g water
 - 100 g sugar
 
-## Directions
+# Directions
 
 - wash the raspberries thoroughly
 - put all the ingredients in a blender cup
