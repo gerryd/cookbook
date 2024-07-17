@@ -2,7 +2,7 @@
 title: Savoiardi
 ---
 
-Savoiardi are probably better known as "laydfingers", "lange vingers" or
+Savoiardi are probably better known as "ladyfingers", "lange vingers" or
 "boudoirs".
 
 These are perfect for dipping in coffee, though you probably know them best from
@@ -19,13 +19,13 @@ tiramisu.
 
 # Directions
 
-- pre-heat the oven to 180 °C
+- preheat the oven to 180 °C
 - separate the eggs
 - by hand, mix the egg yolks with half of the sugar
 - pour all of the whites and salt in a bowl and mix (mixer)
 - slowly add in the other half of the sugar
 - mix until firm and sugar has dissolved
-- use a spatula to slowly incorporate the whites+sugar
+- use a spatula to slowly incorporate the whites and sugar
 - pour the cornstarch and flour through a sieve over the mixture
 - use a spatula and mix gently
 
@@ -34,9 +34,9 @@ tiramisu.
 - use a piping bag with a 1 to 1.5 cm smooth spout
 - make "fingers" of approximately 8 cm on a baking tray lined with baking paper
 - leave sufficient space as they will expand considerably
-- dust with the sugar (use a small sieve)
+- dust with the sugar (using a small sieve)
 - bake for 13 to 18 minutes
-- let cool down
+- let cool
 - if, after cooling, they are still too soft, put them back in for 4 minutes
 
 ## Cake layers

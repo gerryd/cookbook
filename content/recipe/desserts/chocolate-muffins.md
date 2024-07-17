@@ -21,7 +21,7 @@ This recipe will yield 12 to 14 muffins.
 
 # Directions
 
-- pre-heat the oven to 220 °C
+- preheat the oven to 220 °C
 - prepare 12 to 14 cupcake liners or use a muffin pan
 - whisk together the flour, cocoa powder, sugar, and baking soda in a large bowl
 - add the chocolate chips and mix

@@ -2,18 +2,18 @@
 title: Baguette
 ---
 
-This recipe will make 2 baguettes of approcximately 30 cm.
+This recipe will make 2 baguettes of approximately 30 cm.
 
 This recipe can be made with regular white flour, but works just as
-well will whole wheat flour. The latter will yield a drier dough.
+well with whole wheat flour. The latter will yield a drier dough.
 
 The baking process calls for moist air in the oven during the first
-few minutes. This can be achieved by spraying the pre-heated oven
+few minutes. This can be achieved by spraying the preheated oven
 with water, or by using a pan with boiling water for the first
 minutes of the bake.
 
 If you don't have a convection oven, make sure to bake without too
-many layers between the heatig elements and the bread.
+many layers between the heating elements and the bread.
 
 # Ingredients
 
@@ -35,16 +35,16 @@ many layers between the heatig elements and the bread.
 - add in the yeast/water
 - mix and make sure the liquid has combined with flour before it touches the salt
 - when it has formed somewhat of a dough, pour it out on the counter
-- knead until homogenous and not too sticky (5 to 10 minutes)
+- knead until homogeneous and not too sticky (5 to 10 minutes)
 - tuck the dough into a ball
 - oil a clean bowl and drop in the ball of dough
 - cover and let rest for 40 minutes
 - flatten the dough
 - make two equal parts and tuck into balls
 - cover and let rest on the countertop for 15 minutes
-- flatten the balls into disks and tuck into balls again
+- flatten the balls into discs and tuck into balls again
 - cover and let rest on the countertop for 10 minutes
-- pre-heat the oven to 230 °C (with a pan of boiling water for steam)
+- preheat the oven to 230 °C (with a pan of boiling water for steam)
 - form the bread (flatten to envelope-sized rectangle, fold 1/3rd in and press, fold over the rest and pinch, roll up)
 - cover and let rest on the countertop for 10 minutes
 - make cuts in the bread (1 lengthwise or 3 sidewise)

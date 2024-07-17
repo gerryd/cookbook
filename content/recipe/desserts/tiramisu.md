@@ -2,7 +2,7 @@
 title: Tiramisu
 ---
 
-I prefer to make tiramisu in a cake-like shape. Howver, making individual
+I prefer to make tiramisu in a cake-like shape. However, making individual
 portions based on this recipe should be trivial.
 
 
@@ -17,7 +17,7 @@ portions based on this recipe should be trivial.
 For the bottom, bake two round layers of savoiardi. See the savoiardi recipe for
 instructions, and follow the instructions for cake layers.
 
-If you are in a hurry, you can use store bought ladyfingers. The result will be
+If you are in a hurry, you can use store-bought ladyfingers. The result will be
 quite different, though.
 
 

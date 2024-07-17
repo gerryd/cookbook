@@ -29,7 +29,7 @@ with dry cookies, such as speculoos.
 
 - blend of crumble the cookies to a fine-ish powder
 - melt the butter
-- mix the butter in with the cookie crubmbles
+- mix the butter in with the cookie crumbles
 - line the bottom of the cake ring with baking paper (sides optional)
 - spread the mix evenly over the bottom
 - press down with a spoon or another flat tool

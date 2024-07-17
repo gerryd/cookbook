@@ -16,7 +16,7 @@ This recipe makes approximately 9 cookies (~40g dough per cookie).
 - 25 g white sugar
 - 132.5 g almond flour
 - 1 egg
-- 5 ml vanilla flavouring/extract
+- 5 ml vanilla extract
 - 1/4 teaspoon baking soda
 - 1/4 teaspoon salt
 - 62.5 g chocolate chips (+ extra)
@@ -27,7 +27,7 @@ This recipe makes approximately 9 cookies (~40g dough per cookie).
 - add the egg and vanilla flavouring, mix well
 - in another bowl, mix the flour, baking soda and salt
 - combine everything and mix at low speed
-- spatula in the chocolate chips
-- pre-heat the oven to 175 °C
+- fold in the chocolate chips using a spatula
+- preheat the oven to 175 °C
 - make dough balls and spread out on the baking sheet
 - bake for 10 to 11 minutes

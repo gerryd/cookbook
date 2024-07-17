@@ -6,7 +6,7 @@ This recipe will yield 10 small bowls.
 
 # Ingredients
 
-- 750 g low fat milk
+- 750 g low-fat milk
 - 50 g white sugar
 - 10 g cocoa powder
 - 35 g corn starch
@@ -24,7 +24,7 @@ This recipe will yield 10 small bowls.
 - take the pan off the heat
 - add the chocolate
 - mix until the chocolate has melted
-- slowly mix in the corn starch and cocoa mix
+- slowly mix in the corn starch and cocoa mixture
 - put the mix back on the heat
 - wait until it bubbles once
 - pour the pudding in the bowls

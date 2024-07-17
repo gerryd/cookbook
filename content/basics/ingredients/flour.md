@@ -9,14 +9,14 @@ If the package doesn't mention anything, it is safe to assume it is regular
 flour, without additives. This is sometimes called "all-purpose flour" or "plain
 flour".
 
-Likewise, if a recipe just mentions "flour", it is safe to assume you the recipe
+Likewise, if a recipe just mentions "flour", it is safe to assume the recipe
 calls for plain flour.
 
 Do note that while they look similar, baking powder is something very different
-than baking soda.
+from baking soda.
 
 Some people claim they add salt to their self-rising flour mix, but I'm not a
-fan. It is not common and not necessary and can lead to different results. If
+fan. It is not common, not necessary, and can lead to different results. If
 you want to try, the consensus seems to be to use about 2 g of salt per kg of
 flour.
 
@@ -28,7 +28,7 @@ in.
 ## Examples
 
 As I often find myself looking this up in a hurry when I find myself without
-self-rising flour, here's some examples.
+self-rising flour, here are some examples.
 
 - 125 g flour
 - 3.75 g baking powder

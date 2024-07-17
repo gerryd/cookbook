@@ -53,3 +53,15 @@ When you are happy with the result, it is time to finalise the process.
 You should be able to store it in a freezer up to an hour or two befor drinking,
 to make it even colder. As the drink contains approximately 25% alcohol, it will
 somewhat freeze at around -12 °C.
+
+# Alternatives
+
+If you don't have 95% alcohol, you can achieve a very acceptable result by using
+white wodka instead.
+
+The process is the same, only the ratio is different to compensate for the lower
+alcohol volume. I also use less sugar, because I find the taste less sharp.
+
+- 720 ml wodka
+- 240 ml water
+- 360 g sugar

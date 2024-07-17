@@ -7,7 +7,7 @@ ice cream at a time.
 
 # Parts
 
-The machine itself has a few noteworthy details.
+The machine itself has a few noteworthy details:
 
 - Timer
 - Mixing switch
@@ -16,7 +16,7 @@ The machine itself has a few noteworthy details.
 The fixed bowl in the machine can be used as-is, but you can opt to use the
 removable bowl instead.
 
-The machine comes with a few parts.
+The machine comes with a few parts:
 
 - Mixing blade for the fixed bowl
 - Mixing blade for the removable bowl
@@ -29,7 +29,7 @@ The machine comes with a few parts.
 If you have moved the ice cream maker, allow the refrigerant to settle for 12
 hours.
 
-Make sure all parts are thouroughly washed.
+Make sure all parts are thoroughly washed.
 
 - Fit the mixing blade in the bowl (or the removable bowl) and tighten the nut
 - Press the cooling switch to turn on the cooling function

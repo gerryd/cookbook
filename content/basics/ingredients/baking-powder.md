@@ -3,7 +3,7 @@ title: Baking powder
 ---
 
 Baking powder is a compound powder made of a carbonate and an acid. Some kind of
-starch is added used as a stabiliser.
+starch is added as a stabiliser.
 
 The carbonate, when combined with the moisture from the dough and the acid, will
 ensure the formation of carbon dioxide during baking. This gas is what will

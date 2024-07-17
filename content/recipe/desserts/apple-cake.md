@@ -7,7 +7,7 @@ pie. This recipe will yield a ~25 cm / 10 inch cake.
 
 # Tools
 
-- 25 cm or 10 inch springform cake pan
+- 25 cm or 10 inch springform cake tin
 
 # Ingredients
 
@@ -18,7 +18,7 @@ pie. This recipe will yield a ~25 cm / 10 inch cake.
 - 3 eggs, at room temperature
 - 60 ml (sour) cream
 - 200 g flour
-- 1.5 teaspoon baking powder
+- 1.5 teaspoons baking powder
 - 2 or 3 apples, peeled
 - 1 teaspoon cinnamon powder (optional)
 - 1/4 lemon juice
@@ -27,17 +27,17 @@ pie. This recipe will yield a ~25 cm / 10 inch cake.
 
 # Directions
 
-- pre-heat the oven to 170 °C
-- cut baking paper to the right shape and place on the bottom of the cake pan
+- preheat the oven to 170 °C
+- cut baking paper to the right shape and place on the bottom of the cake tin
 - grease the edges of the cake pan
 - add the butter, zest and salt to a bowl
-- mix a few minutes until creamy
+- mix for a few minutes until creamy
 - add the eggs one by one and mix until airy
 - using a spatula, add in the cream
 - weigh the flour, whisk in the baking powder
 - add in the flour mix and mix gently with the spatula
 - pour the batter into the cake pan
-- cut the apples into small 0.5 to 1 cm dices
+- cut the apples into small 0.5 to 1 cm dice
 - mix the apple dices with the cinnamon powder, lemon juice (optional) and sugar (optional)
 - spread the apple dices evenly over the top of the cake, make sure it is fully covered in apples
 - bake for 55 to 65 minutes until the edges are golden brown (the top will not brown as much at all)

@@ -8,8 +8,8 @@ rum, which I highly recommend adding.
 # Ingredients
 
 - 100 g dried raisins
-- 10 cl rum (be liberal)
-- 6 dl milk
+- 100 ml rum (be liberal)
+- 600 ml milk
 - 10 g vanilla sugar
 - 400 g bread (can be any kind, even old, I recommend plain white)
 - 80 g brown sugar
@@ -20,7 +20,7 @@ rum, which I highly recommend adding.
 
 # Directions
 
-- pre-heat the oven to 175°C
+- preheat the oven to 175°C
 - soak the raisins in the rum (ideally overnight, cover all raisins with rum)
 - in a large pot, heat the milk and vanilla sugar up to ~80°C
 - cut the bread in small-ish pieces, including the crust

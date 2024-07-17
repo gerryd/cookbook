@@ -25,7 +25,7 @@ in a dry environment.
 ## Directions
 
 - take the eggs out of the fridge and let them come to room temperature for 15 minutes
-- pre-heat the oven to 130 °C
+- preheat the oven to 130 °C
 - line a baking sheet with baking paper
 - separate the eggs, keep only the egg whites
 - whip the egg whites into soft peaks, slowly add in the sugar and keep whipping

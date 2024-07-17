@@ -12,11 +12,11 @@ This recipe will yield a ~27 cm / 10 inch tart.
 
 ## Directions
 
-- take the dugh out of the fridge and bring to room temperature
+- take the dough out of the fridge and bring to room temperature
 - take a 27 cm cake pan, grease with butter and dust lightly with flour until covered (remove excess)
 - spread out the dough, cover the cake pan and push down into the corners
 - remove excess dough with a rolling pin or similar
-- stap the dough a few times with a fork
+- stab the dough a few times with a fork
 
 
 # Filling (custard - banketbakkersroom)
@@ -49,8 +49,8 @@ making the finish while the tart is in the oven.
 - let cool down
 - peel and slice the apples
 - arrange them on top of the tart
-- pre-heat the oven to 200 °C
-- bake for 45 min
+- preheat the oven to 200 °C
+- bake for 45 minutes
 - let the tart cool down for a bit on a rack
 
 
@@ -64,7 +64,7 @@ making the finish while the tart is in the oven.
 ## Directions
 
 - mix the Taartina with a few spoons of the apple juice, stir well until dissolved
-- heat the applje juice almost to a boil
+- heat the apple juice almost to a boil
 - remove from the heat and stir in the mixture
 - bring back to a boil until bubbles are forming
 - pour the mixture evenly over the tart

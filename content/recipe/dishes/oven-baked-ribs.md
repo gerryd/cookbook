@@ -1,5 +1,5 @@
 ---
-title: Oven baked ribs
+title: Oven-baked ribs
 ---
 
 How many ribs you need will depend on the bone/meat ratio of the ribs you buy.
@@ -8,8 +8,8 @@ I suggest 600 g of ribs per person.
 # Rub
 
 You can use any spices you like for the rub, the list below is just to give you
-some inspiration. Other spices could be coriander seeds, celery salt, oregano,
-thyme, brown sugar, cayenne ... .
+some inspiration; other spices could be coriander seeds, celery salt, oregano,
+thyme, brown sugar, cayenne, etc.
 
 The most efficient way would be to use a mortar and pestle, but any method by
 which you can crush and grind spices together should work.
@@ -56,8 +56,8 @@ reference, I used double this recipe for 3 kg of ribs and had extra left over.
 optional:
 
 - 1 tsp salt (more salty)
-- 1 tsp siracha (spicy)
-- 1 tsp garlic powder (garlicy)
+- 1 tsp sriracha (spicy)
+- 1 tsp garlic powder (garlicky)
 
 ## Directions
 
@@ -109,7 +109,7 @@ the aluminium foil.
 
 - remove the skin membrane from the back of the ribs (this is very important)
 - coat the ribs generously and thoroughly with the rub, back and front
-- pre-heat the oven to 130 °C
+- preheat the oven to 130 °C
 - line the baking dish or roasting tin with aluminium foil (this will help with cleanup later)
 - put the ribs in the dish or tray in single layers, hollow side up
 - cover with more alumimium foil (this is important, as we want the moisture to remain in with the ribs)

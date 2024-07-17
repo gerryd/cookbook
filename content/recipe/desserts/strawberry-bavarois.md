@@ -6,7 +6,7 @@ There are two options for the bottom of the bavarois. One is an almond financier
 and the other is a lemon shortcrust.
 
 The cake ring is optional, if you want, you can make this straight into the
-spring form. Do note that the result will not be as well finished, as the spring
+springform. Do note that the result will not be as well finished, as the spring
 form is uneven.
 
 I do suggest you use the acetate foil either way, it allows you to remove the
@@ -51,9 +51,9 @@ extract, but that probably also depends on the brand used.
 - let cool a little bit
 - mix the almond flour, powder sugar, flour and salt
 - add in the egg whites (not whipped!) and almond extract
-- last, add in the cooled butter
-- rest in the fridge for 1h
-- pre-heat the oven to 180 °C
+- lastly, add in the cooled butter
+- rest in the fridge for 1 hour
+- preheat the oven to 180 °C
 - grease the springform walls with butter, baking paper on the bottom
 - pour the cooled mixture in, spread evenly
 - bake for 23 to 28 minutes
@@ -75,11 +75,11 @@ extract, but that probably also depends on the brand used.
 
 ### Directions
 
-- make sure the butter (salted and unsalted) is soft
+- ensure the butter (salted and unsalted) is soft
 - put the butter in a stand mixer and mix gently
-- add sugar, lime zest, egg yolk, flour, lemon grass and vanilla flavouring
+- add the sugars, lime zest, egg yolk, flour, lemon grass and vanilla flavouring
 - knead for a few minutes and continue by hand
-- pre-heat the oven to 180°C
+- preheat the oven to 180°C
 - dust a surface with flour
 - roll out the dough to a thickness of ~5mm
 - press out the desired shape using a cake ring
@@ -97,28 +97,28 @@ easily takes all of the zest of one lemon.
 - 1/4 or 1/2 lemon (juice)
 - 300 ml cream
 - 75 g sugar
-- 4 gelatin leaves (6.7 g total)
+- 4 gelatine leaves (6.7 g total)
 
 ## Directions
 
 Hint: blend all of the strawberries at once and keep ~175-200 ml in the fridge
-fo the mirror finish later.
+for the mirror finish later.
 
 For the lemon juice, it's perfectly fine to use one of those lemon juice squeeze
 bottles.
 
 - clean the strawberries
 - blend the strawberries with the lemon juice to a smooth puree
-- soak the gelatin leaves in water for ~5 minutes (see package)
+- soak the gelatine leaves in water for ~5 minutes (see package)
 - whip the cream with the sugar until it has the consistency of yoghurt
-- pour 3-4 tablespoons of the strawberry puree in a small pan and heat it while stirring
+- pour 3-4 tablespoons of the strawberry puree in a small pan and heat while stirring
 - when it is hot but not boiling, remove it from the heat
-- squeeze the water out of the gelatin leaves and add them to the warm puree
+- squeeze the water out of the gelatine leaves and add them to the warm puree
 - stir until dissolved
-- if they don't dissolve well, put it back on the heat a little more
+- if they don't dissolve well, put it back on the heat a little longer
 - mix this with the rest of the puree
 - gently mix (spatula) half of the whipped cream into the puree
-- now gently mix in the other half (make sure to preserve the airyness!)
+- now gently mix in the other half (make sure to preserve the airiness!)
 
 
 # Assembly
@@ -137,7 +137,7 @@ bottles.
 - 175 g strawberries
 - 1/4 lemon (juice)
 - 30 g sugar
-- 2 gelatin leaves (3.3 g total)
+- 2 gelatine leaves (3.3 g total)
 - few drops of red food colouring (optional)
 
 ## Directions
@@ -147,11 +147,11 @@ the first two steps.
 
 - clean the strawberries
 - blend the strawberries with the lemon juice to a smooth puree
-- soak the gelatin leaves in water for ~5 minutes (see package)
+- soak the gelatine leaves in water for ~5 minutes (see package)
 - put 1/3rd of the puree in a pan
 - add the sugar and a few drops of red food colouring (optional)
 - heat until hot (not boiling)
-- squeeze the water out of the gelatin leaves and add them to the warm puree
+- squeeze the water out of the gelatine leaves and add them to the warm puree
 - mix this with the rest of the puree
 - pour on top of the bavarois
 - put in the fridge for 2 hours

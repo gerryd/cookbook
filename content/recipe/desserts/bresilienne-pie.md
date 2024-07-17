@@ -5,15 +5,15 @@ title: Bresilienne pie
 # Tools
 
 - pie pan (~26 cm diameter, ~3 cm high)
-- standmixer with dough hook
+- stand mixer with dough hook
 - handmixer
 
-While you can use a normal pie pan, I would recommend one with a loose bottom,
+While you can use a normal pie pan, I would recommend one with a removable bottom,
 to make the process of removing the pie a bit more straightforward.
 
 Note 2022-08-07: I have found that there is probably plenty of dough for a 29
 cm pie pan. I also found the dough to rise too much, so after 10 minutes in the
-oven, popped the bottom and weighed it down. I have reduced the amount of dry
+oven, popped the base and weighted it down. I have reduced the amount of dry
 yeast from 9 to 7 grams.
 
 
@@ -29,7 +29,7 @@ yeast from 9 to 7 grams.
 - 1 egg
 - pinch of salt
 
-The dough will be quite stiff; if you have one available, a standmixer with a
+The dough will be quite firm; if you have one available, a standmixer with a
 dough hook would help.
 
 ## Directions
@@ -82,7 +82,7 @@ dough hook would help.
 - mix the milk, sugar, flour, eggs and vannilated sugar (using a mixer)
 - take the pudding from earlier
 - add it to the mixture and mix well
-- let it rest for 15min
+- let it rest for 15 minutes
 
 
 # Baking
@@ -106,7 +106,7 @@ dough hook would help.
 ## Ingredients
 
 - 300 ml cream
-- 1 tablsepoon powdered sugar
+- 1 tablespoon powdered sugar
 - 100 g bresilienne/nougatine/hazelnuts/walnuts
 
 ## Directions

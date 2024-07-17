@@ -25,10 +25,10 @@ This recipe makes 9 servings.
 
 # Directions
 
-- pre-heat the oven to 180°C (350°F)
+- preheat the oven to 180°C (350°F)
 - line the baking dish with parchment paper
 - chop the chocolate into chunks
-- melt half of the chocolate (au-bain marie, preferably)
+- melt half of the chocolate (au bain-marie, preferably)
 - melt the butter
 - add the butter and sugar to the bowl and mix with a mixer
 - add the eggs (whole) and vanilla and mix for 1 to 2 minutes until fluffy and light

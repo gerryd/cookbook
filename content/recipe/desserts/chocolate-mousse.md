@@ -27,7 +27,7 @@ I recommend using a soft spatula for mixing, instead of the traditional whisk.
 
 - melt the chocolate gently (I highly recommend au bain-marie)
 - whip the egg whites
-- whip the cream (should be quite stiff, not runny)
+- whip the cream (it should be quite stiff, not runny)
 - pour some (~25%) of the chocolate on the whipped cream and mix gently
 - pour the rest of the chocolate in the whites, mix gently
 - add the cream to the whites and mix gently until fully combined

@@ -5,6 +5,9 @@ title: Lasagna
 This makes a very classic "lasagna bolognese". Feel free to
 substitute ingredients in the tomato sauce as much as you want.
 
+Do note that by "bolognese", I do not mean anything resembling coming
+from the city or area of Bologna.
+
 This recipe will make a 3 sheet wide, 5 layer lasagna (15 sheets
 total).
 
@@ -54,15 +57,15 @@ The cheese sauce is basically a béchamel sauce with cheese.
 - melt some butter in a pot or high pan
 - fry the onion
 - add in the ground beef and pork
-- season with pepper, salt, orgegano and basil to taste
+- season with pepper, salt, oregano and basil to taste
 - bake until browning
 - add in the bell peppers
-- bake until done (use dashes water to release the browned bits from the bottom)
+- bake until done (use splashes water to release the browned bits from the bottom)
 - add in the pasta sauce
 - bring to a simmering boil
 - add in the mushrooms
 - simmer for as long as you like
-- for the best result, cool down and re-heat the next day
+- for the best result, cool down and reheat the next day
 
 
 # Assembling
@@ -76,5 +79,5 @@ The cheese sauce is basically a béchamel sauce with cheese.
 - continue until you have 5 pasta layers
 - top off with cheese sauce
 - sprinkle with shredded cheese
-- pre-heat the oven to 180 °C
+- preheat the oven to 180 °C
 - bake for 30 minutes

@@ -26,7 +26,7 @@ canola or grapeseed oil.
 
 # Directions
 
-- pre-heat the oven to 175 °C
+- preheat the oven to 175 °C
 - prepare 6 cupcake liners in a muffin pan
 - crack the eggs in a bowl, whisk to combine
 - add the oil, sugar, salt, vanilla and milk
@@ -36,8 +36,8 @@ canola or grapeseed oil.
 - stir with a spatula to combine
 - pour the mixture into the liners (approximately 3/4 full)
 - bake for 18 to 20 minutes (test with a toothpick)
-- let them cool down in the pan for 5 to 10 minutes
-- put them on a rack to cool down further
+- let them cool in the pan for 5 to 10 minutes
+- place them on a rack to cool further
 
 Optionally, you can add a topping such as buttercream frosting, or a chocolate
 glaze.
