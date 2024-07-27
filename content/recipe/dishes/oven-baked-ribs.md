@@ -112,7 +112,7 @@ the aluminium foil.
 - preheat the oven to 130 °C
 - line the baking dish or roasting tin with aluminium foil (this will help with cleanup later)
 - put the ribs in the dish or tray in single layers, hollow side up
-- cover with more alumimium foil (this is important, as we want the moisture to remain in with the ribs)
+- cover with more aluminium foil (this is important, as we want the moisture to remain in with the ribs)
 - bake the ribs for ~4 hours until they reach an internal temperature of 93 to 95 °C (this will depend on the size and type of your ribs, I suggest overshooting rather than undershooting)
 - take off the aluminium foil
 - set the oven to grill
@@ -121,6 +121,6 @@ the aluminium foil.
 - repeat the process above for a thicker glaze, if desired
 
 If you want to keep the ribs warm until it is time to eat, put the oven on its
-lowest setting, and cover the ribs in aliminium foil. You can leave the oven
+lowest setting, and cover the ribs in aluminium foil. You can leave the oven
 door ajar if you feel this is still too warm. You can do this for about 30
 minutes.

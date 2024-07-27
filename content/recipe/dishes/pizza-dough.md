@@ -14,7 +14,7 @@ the pizza with toppings and don't make the pizza too wet.
 # Ingredients
 
 - 260 ml warm water (38-43°C) (1 cup)
-- 6 g instant dry yeast powder (2 and 1/4 teaspoon)
+- 6 g instant dry yeast powder (2 and 1/4 teaspoons)
 - 10 g granulated sugar (1 tablespoon)
 - 15 ml olive oil (2 tablespoons)
 - 10 g salt (3/4 teaspoon)
@@ -25,16 +25,16 @@ the pizza with toppings and don't make the pizza too wet.
 - gently mix the yeast and sugar in the warm water in a small bowl
 - let it rest for 5 minutes
 - put the flour and salt in a large mixing bowl, stir gently
-- add the yeastwater and olive oil
+- add the yeast water and olive oil
 - mix/knead to combine (hands or spoon)
 - when the dough has come together, flour your hands and tabletop
-- put the dough on the tabletop and knead for 5 min until the dough is springy
+- put the dough on the tabletop and knead for 5 minutes until the dough is springy
 - split into two equal parts
 - tuck the dough into a ball (pull edges, tuck under)
 - grease the two bowls with some oil
-- put the dough in the center and swirl it around to coat it in oil
+- put the dough in the centre and swirl it around to coat it in oil
 - cover with plastic wrap or kitchen towel
-- let it rise for 60-90min at room temperature
+- let it rise for 60 to 90 minutes at room temperature
 - if it's a cold day, heat the oven to ~60°C, put the dough inside with the door ajar
 
 Optional: add herbs and spices (oregano, basil, garlic, pepper ...) to the dough.

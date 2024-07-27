@@ -39,7 +39,7 @@ This recipe should be enough for 6 people.
 - add the meat with the onions to the cooking pot
 - use the beer to deglaze and clean the pan, bring it close to the boiling point
 - add it to the meat and onions
-- add the boullion, cloves and apple/pear jam
+- add the bouillon, cloves and apple/pear jam
 - crumble in the gingerbread
 - put the mustard on the bread and put it mustard side down in the pot
 - let it cook on low to medium for 1.5 to 3 hours, without lid
@@ -49,4 +49,4 @@ This recipe should be enough for 6 people.
 Serve with a fresh salad and ~1.2 kg of fries.
 
 For a simple "witloof" salad, use 10 witloof, cut in long thin strips. Mix with
-4 tablespoons of mayonaise, a splash of vinegar, pepper and salt.
+4 tablespoons of mayonnaise, a splash of vinegar, pepper and salt.

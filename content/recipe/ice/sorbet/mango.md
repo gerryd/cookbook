@@ -11,10 +11,10 @@ title: Mango sorbet
 
 # Directions
 
-- pour the water, sugar and dextrose in a pan
+- pour the water, sugar and dextrose into a pan
 - boil, and bring it to 85 °C
 - freeze it until 4 °C
 - let it rest for 4 hours
-- puree the mango
+- purée the mango
 - mix everything using a blender
 - churn into sorbet

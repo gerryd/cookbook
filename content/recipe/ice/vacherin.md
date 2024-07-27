@@ -18,7 +18,7 @@ in a dry environment.
 ## Ingredients
 
 - 4 large or 5 small egg whites
-- 200 g ultra fine sugar
+- 200 g ultra-fine sugar
 - 1 teaspoon of white wine vinegar
 - 1/2 tablespoon of corn starch
 
@@ -55,5 +55,5 @@ in a dry environment.
 - freeze for a few hours or until more or less solid
 - put the second meringue disc on top
 - whip the cream with the sugar into stiff peaks
-- coat the outside with the cream, decorate with some extra fruits
+- coat the outside with the cream, decorate with some extra fruit
 - freeze for a few hours until solid

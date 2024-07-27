@@ -42,7 +42,7 @@ achieve a very similar result by using "crema mou".
 
 ## Ingredients
 
-- one batch of the "fior de latte" gelato recipe
+- one batch of the "fior di latte" gelato recipe
 - 250 g of the dulce de leche or crema mou
 
 ## Directions

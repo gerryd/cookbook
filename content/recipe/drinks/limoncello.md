@@ -50,7 +50,7 @@ When you are happy with the result, it is time to finalise the process.
 - shake well to combine
 - refrigerate until ice cold
 
-You should be able to store it in a freezer up to an hour or two befor drinking,
+You should be able to store it in a freezer up to an hour or two before drinking,
 to make it even colder. As the drink contains approximately 25% alcohol, it will
 somewhat freeze at around -12 °C.
 

@@ -14,7 +14,7 @@ title: Stracciatella ice cream
 
 # Directions
 
-- pour the milk and cream in a pan
+- pour the milk and cream into a pan
 - scrape the seeds out of the vanilla pod and add them as well (or add the flavouring)
 - if you will not use the vanilla pod for anything else, throw it in as well
 - put the sugar, egg yolks and salt in a bowl and mix in a ruban
@@ -24,7 +24,7 @@ title: Stracciatella ice cream
 - pour the contents of the bowl back into the pan and stir
 - heat it up until it thickens a bit
 - pour through a sieve into a container
-- store the container in the fridge overnight, and freeze the bowl of your ice maker
+- store the container in the fridge overnight, and freeze the bowl of your ice cream maker
 - the next day, pour the mixture into the ice maker and churn for about 20 minutes
 - chop the chocolate into fine pieces
 - add in the chocolate after 20 minutes and churn a little more

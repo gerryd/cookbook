@@ -45,7 +45,7 @@ The videe biscuits are small containers built up from puff pastry rings.
 - peppercorn (a tablespoon)
 - 2 cloves
 - 2 cloves of garlic
-- water (1.5 to 2 litre)
+- water (1.5 to 2 litres)
 
 ## Directions
 
@@ -79,12 +79,12 @@ Tip: you can preserve the meatballs and chicken in the stock for 2 to 3 days
 
 Mushrooms
 
-- cut the mushrooms in quarts
+- cut the mushrooms in quarters
 - add some butter to a pan
 - throw in the mushrooms
 - squash the garlic and add it in
 - add pepper, salt
-- bake until browned
+- cook until browned
 
 Sauce
 

@@ -12,10 +12,10 @@ title: Lemon sorbet
 
 # Directions
 
-- pour the water, sugar and dextrose in a pan
-- boil, and let boil for 2 tot 3 minutes
+- pour the water, sugar and dextrose into a pan
+- boil, and let boil for 2 to 3 minutes
 - let it cool completely
-- pour the lemon and lime juice in a pot
+- pour the lemon and lime juice in a bowl
 - add the cooled syrup
 - let it rest in the fridge for 6 hours
 - churn into sorbet
