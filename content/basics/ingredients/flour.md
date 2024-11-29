@@ -44,3 +44,28 @@ self-rising flour, here are some examples.
 <!-- -->
 - 500 g flour
 - 15 g baking powder
+
+# Bread flour
+
+Bread flour typically contains more protein compared to regular, all-purpose
+flour. More protein result in better gluten development, improving the texture
+of the bread.
+
+Since I don't always have access to proper bread flour, I sometimes have to
+make do with all-purpose flour, and I found that adding some vital wheat gluten
+yields very acceptable results.
+
+Usually, all-purpose flour contains about 10% protein, while bread flour is
+more in the range of 14%. This is different for each flour, so make sure to
+check the packaging; or in my case: experiment because there is no label on the
+flour at all.
+
+## Examples
+
+The experiments below use vital wheat gluten, with a protein content of 70 to
+80%. Again, this will be different for other brands.
+
+For 500 g of bread flour:
+
+- 480 g unlabeled all-purpose flour
+- 20 g vital wheat gluten (70-80%)
